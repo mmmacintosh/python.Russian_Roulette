@@ -1,9 +1,9 @@
-﻿#импорты
+#импорты
 import random
 import time
 import sys
 
-# оформление и текст
+# оформление 
 print("\033[31m", end='')
 
 txt = 'WELCOME TO RUSSIAN ROULLETE'
@@ -32,7 +32,7 @@ print("\n\n")
 time.sleep(0.3)
 
 streak = 0
-# игровой цикл: пока игрок выигрывает, ему дается еще шанс
+# игровой цикл
 while True:
     print('Start Game - 1')
     print('Exit - 0')
