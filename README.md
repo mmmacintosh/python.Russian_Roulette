@@ -6,4 +6,4 @@ A simple Russian Roulette python script.
 - add a UI to game
 
 ☄ To RUN:
-Just run the Russian_Рулетка ALPHA.py file to play.
+- just run the Russian_Рулетка ALPHA.py file to play.
