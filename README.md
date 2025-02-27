@@ -4,7 +4,7 @@ A simple Russian Roulette python script.
 ☑ PLANS:
 - add a worldwide streak scoreboard
 - add a UI to game
-- add scoreboard (done)
+- add highest score (done)
 
 ☄ To RUN:
 To run app, just run .exe programm
