@@ -10,5 +10,5 @@ A simple Russian Roulette python script.
 To run app, just run .exe programm
 
 to run source code, you need to install PILLOW:
-\ python3 -m pip install --upgrade pip
-\ python3 -m pip install --upgrade Pillow
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
