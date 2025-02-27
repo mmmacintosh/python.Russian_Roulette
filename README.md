@@ -14,4 +14,4 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade Pillow
 
 
-ver: 0.3nbt alpha
+ver: alpha 0.3nbt
